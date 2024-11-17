@@ -1,0 +1,88 @@
+{
+  "shoppingLists": [
+    {
+      "id": 1,
+      "name": "Shopping List 1",
+      "archived": false,
+      "items": [
+        { "id": 1, "name": "Item 1", "resolved": false },
+        { "id": 2, "name": "Item 2", "resolved": true },
+        { "id": 3, "name": "Item 3", "resolved": false },
+        { "id": 4, "name": "Item 4", "resolved": true },
+        { "id": 5, "name": "Item 5", "resolved": false },
+        { "id": 6, "name": "Item 6", "resolved": true },
+        { "id": 7, "name": "Item 7", "resolved": false },
+        { "id": 8, "name": "Item 8", "resolved": true },
+        { "id": 9, "name": "Item 9", "resolved": false },
+        { "id": 10, "name": "Item 10", "resolved": true },
+        { "id": 11, "name": "Item 11", "resolved": false },
+        { "id": 12, "name": "Item 12", "resolved": true },
+        { "id": 13, "name": "Item 13", "resolved": false },
+        { "id": 14, "name": "Item 14", "resolved": true },
+        { "id": 15, "name": "Item 15", "resolved": false },
+        { "id": 16, "name": "Item 16", "resolved": true },
+        { "id": 17, "name": "Item 17", "resolved": false },
+        { "id": 18, "name": "Item 18", "resolved": true },
+        { "id": 19, "name": "Item 19", "resolved": false },
+        { "id": 20, "name": "Item 20", "resolved": true }
+      ],
+      "members": ["Member 1", "Member 2", "Member 3", "Member 4", "Member 5"]
+    },
+    {
+      "id": 2,
+      "name": "Shopping List 2",
+      "archived": false,
+      "items": [
+        { "id": 1, "name": "Item 1", "resolved": false },
+        { "id": 2, "name": "Item 2", "resolved": true },
+        { "id": 3, "name": "Item 3", "resolved": false },
+        { "id": 4, "name": "Item 4", "resolved": true },
+        { "id": 5, "name": "Item 5", "resolved": false },
+        { "id": 6, "name": "Item 6", "resolved": true },
+        { "id": 7, "name": "Item 7", "resolved": false },
+        { "id": 8, "name": "Item 8", "resolved": true },
+        { "id": 9, "name": "Item 9", "resolved": false },
+        { "id": 10, "name": "Item 10", "resolved": true },
+        { "id": 11, "name": "Item 11", "resolved": false },
+        { "id": 12, "name": "Item 12", "resolved": true },
+        { "id": 13, "name": "Item 13", "resolved": false },
+        { "id": 14, "name": "Item 14", "resolved": true },
+        { "id": 15, "name": "Item 15", "resolved": false },
+        { "id": 16, "name": "Item 16", "resolved": true },
+        { "id": 17, "name": "Item 17", "resolved": false },
+        { "id": 18, "name": "Item 18", "resolved": true },
+        { "id": 19, "name": "Item 19", "resolved": false },
+        { "id": 20, "name": "Item 20", "resolved": true }
+      ],
+      "members": ["Member 1", "Member 2", "Member 3", "Member 4", "Member 5"]
+    },
+    {
+      "id": 3,
+      "name": "Shopping List 3",
+      "archived": true,
+      "items": [
+        { "id": 1, "name": "Item 1", "resolved": false },
+        { "id": 2, "name": "Item 2", "resolved": true },
+        { "id": 3, "name": "Item 3", "resolved": false },
+        { "id": 4, "name": "Item 4", "resolved": true },
+        { "id": 5, "name": "Item 5", "resolved": false },
+        { "id": 6, "name": "Item 6", "resolved": true },
+        { "id": 7, "name": "Item 7", "resolved": false },
+        { "id": 8, "name": "Item 8", "resolved": true },
+        { "id": 9, "name": "Item 9", "resolved": false },
+        { "id": 10, "name": "Item 10", "resolved": true },
+        { "id": 11, "name": "Item 11", "resolved": false },
+        { "id": 12, "name": "Item 12", "resolved": true },
+        { "id": 13, "name": "Item 13", "resolved": false },
+        { "id": 14, "name": "Item 14", "resolved": true },
+        { "id": 15, "name": "Item 15", "resolved": false },
+        { "id": 16, "name": "Item 16", "resolved": true },
+        { "id": 17, "name": "Item 17", "resolved": false },
+        { "id": 18, "name": "Item 18", "resolved": true },
+        { "id": 19, "name": "Item 19", "resolved": false },
+        { "id": 20, "name": "Item 20", "resolved": true }
+      ],
+      "members": ["Member 1", "Member 2", "Member 3", "Member 4", "Member 5"]
+    }
+  ]
+}
